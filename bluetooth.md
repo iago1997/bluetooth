@@ -34,11 +34,11 @@ La interacción entre dispositivos de diferentes clases es posible y sin problem
 
 ## **Versiones**
 
-* __Bluetooth 1.0.__. Esta fue la primera versión usada para la transmisión de datos y que actualmente se encuentra en desuso. Enfrentó mucho problemas de comunicación entre dispositivos
-* __Bluetooth 2.0.__. Le sucedieron la versión 2.1, el cual permitió que los usuarios se conectaran más fácilmente. A grandes rasgos se permitió que un dispositivo pudiera agregar otro dispositivo con Bluetooth de un menú que permitiera detectar y conectarse automáticamente con otro.
-* __Bluetooth 3.0.__. Sin sucesiones. Se incorporó la características HS -High Speed-, lo que lo hace apto para transferencia de paquetes que contienen más datos de los que se requieren tales como archivos de video y musicales. Además su tasa de transferencia es de 24 Mbps.
-* __Bluetooth 4.0.__. Con versiones actualizadas 4.1 y 4.2.  Dentro de esta versión apareció el Bluetooth Low Energy (BLE) el cual está enfocado principalmente para elementos que funcionen con internet de las cosas (IoT), además de que su consumo energético es menor para dispositivos que funcionan por periodos muy largos. En general Bluetooth 4.0 permite tasas de transferencias desde 25 Mbps hasta 32 Mbps.
-* __Bluetooth 5.__. Esta es la última versión de Bluetooth. En esta versión se pretende mejorar su funcionalidad para dispositivos IoT por medio de una doble tasa de transferencia de datos y un rango de cobertura cuatro veces mayor con respecto a las versiones 4.1 y 4.2, así como la capacidad de soportar flujos de datos con varios dispositivos simultáneamente.
+* __Bluetooth 1.0.__ Esta fue la primera versión usada para la transmisión de datos y que actualmente se encuentra en desuso. Enfrentó mucho problemas de comunicación entre dispositivos
+* __Bluetooth 2.0.__ Le sucedieron la versión 2.1, el cual permitió que los usuarios se conectaran más fácilmente. A grandes rasgos se permitió que un dispositivo pudiera agregar otro dispositivo con Bluetooth de un menú que permitiera detectar y conectarse automáticamente con otro.
+* __Bluetooth 3.0.__ Sin sucesiones. Se incorporó la características HS -High Speed-, lo que lo hace apto para transferencia de paquetes que contienen más datos de los que se requieren tales como archivos de video y musicales. Además su tasa de transferencia es de 24 Mbps.
+* __Bluetooth 4.0.__ Con versiones actualizadas 4.1 y 4.2.  Dentro de esta versión apareció el Bluetooth Low Energy (BLE) el cual está enfocado principalmente para elementos que funcionen con internet de las cosas (IoT), además de que su consumo energético es menor para dispositivos que funcionan por periodos muy largos. En general Bluetooth 4.0 permite tasas de transferencias desde 25 Mbps hasta 32 Mbps.
+* __Bluetooth 5.__ Esta es la última versión de Bluetooth. En esta versión se pretende mejorar su funcionalidad para dispositivos IoT por medio de una doble tasa de transferencia de datos y un rango de cobertura cuatro veces mayor con respecto a las versiones 4.1 y 4.2, así como la capacidad de soportar flujos de datos con varios dispositivos simultáneamente.
 
 
 
