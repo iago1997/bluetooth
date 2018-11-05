@@ -24,6 +24,7 @@ El nombre procede del rey danés y noruego Harald Blåtand, cuya traducción se 
 Las comunicaciones se realizan por radiofrecuencia de forma que los dispositivos no tienen que estar alineados y pueden incluso estar en habitaciones separadas si la potencia de transmisión es suficiente
 
 |Clase | Potencia máxima permitida (mW) | Potencia máxima permitida (dBm) | Alcance (aproximado) |
+|------|--------------------------------|---------------------------------|----------------------|
 |Clase1|                         100 mW |                          20 dBm |          100 metros  |
 |Clase2|                         2.5 mW |                           4 dBm |          5-10 metros |
 |Clase3|                           1 mW |                           0 dBm |          1 metros    |
