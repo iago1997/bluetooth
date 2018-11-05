@@ -10,5 +10,5 @@
 
  > - El nombre procede del rey danés y noruego Harald Blåtand, cuya traducción se perdió al inglés como Harald Bluetooth. Conocido por unificar las tribus noruegas, suecas-danesas y convertirlas al cristianismo.
  
- >  ![Harald Blåtand.Runas escandinavas](https://media.metrolatam.com/2018/04/16/a171f8c033d6e39d493a65d0b7cf6e1b-34d5b710c3a81821b371831d3901007c-1200x600.jpg "Harald Blåtand") *El logo de Bluetooth combina las runas Hagall (Runic letter ior.svg) y Berkana (Runic letter berkanan.svg), que corresponden a las iniciales de Harald Bluetooth*
+ >  ![Harald Blåtand.Runas escandinavas] img  width="40" (https://media.metrolatam.com/2018/04/16/a171f8c033d6e39d493a65d0b7cf6e1b-34d5b710c3a81821b371831d3901007c-1200x600.jpg "Harald Blåtand") *El logo de Bluetooth combina las runas Hagall (Runic letter ior.svg) y Berkana (Runic letter berkanan.svg), que corresponden a las iniciales de Harald Bluetooth*
 
