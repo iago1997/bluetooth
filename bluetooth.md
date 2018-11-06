@@ -34,6 +34,8 @@ La interacción entre dispositivos de diferentes clases es posible y sin problem
 
 ## **Versiones**
 
+Las versiones de Bluetooth, con algunas de sus particularidades más importantes, son:
+
 * __Bluetooth 1.0.__ Esta fue la primera versión usada para la transmisión de datos y que actualmente se encuentra en desuso. Enfrentó mucho problemas de comunicación entre dispositivos
 * __Bluetooth 2.0.__ Le sucedieron la versión 2.1, el cual permitió que los usuarios se conectaran más fácilmente. A grandes rasgos se permitió que un dispositivo pudiera agregar otro dispositivo con Bluetooth de un menú que permitiera detectar y conectarse automáticamente con otro.
 * __Bluetooth 3.0.__ Sin sucesiones. Se incorporó la características HS -High Speed-, lo que lo hace apto para transferencia de paquetes que contienen más datos de los que se requieren tales como archivos de video y musicales. Además su tasa de transferencia es de 24 Mbps.
