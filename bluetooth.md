@@ -44,6 +44,8 @@ Las versiones de Bluetooth, con algunas de sus particularidades más importantes
 
 
 *__fdfd__*
+**_fdfd_**
+**__fdfd__**
 
 
 
