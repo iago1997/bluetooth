@@ -43,6 +43,9 @@ Las versiones de Bluetooth, con algunas de sus particularidades más importantes
 * __Bluetooth 5.__ Esta es la última versión de Bluetooth. En esta versión se pretende mejorar su funcionalidad para dispositivos IoT por medio de una doble tasa de transferencia de datos y un rango de cobertura cuatro veces mayor con respecto a las versiones 4.1 y 4.2, así como la capacidad de soportar flujos de datos con varios dispositivos simultáneamente.
 
 
+*__fdfd__*
+
+
 
 
 
