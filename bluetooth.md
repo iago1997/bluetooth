@@ -26,6 +26,9 @@ Las comunicaciones se realizan por radiofrecuencia de forma que los dispositivos
 |Clase3|                           1 mW |          1 metros    |
 |Clase4|                         0.5 mW |          0.5 metros  |
 
+|       |                           |       t   t      |
+|-------|---------------------------|------------------|
+|dfgrg  |reeeeggggrgrgrgrgrgrgrg    |  fewegrgrrttttttt|
 
 ### ¿Es compatible un dispositivos de una clase con un dispositivo de otra clase?
 
